@@ -7,3 +7,4 @@ https://github.com/devmax/AutoNav
 https://github.com/robotika/h264-drone-vision
 https://github.com/hsanmark/multicopter
 https://github.com/Shikhargupta/vision-based-autonomous-UAV
+https://github.com/tieskedh/hack-a-drone
